@@ -1,0 +1,15 @@
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\bin\Debug\net6.0\RhombusSymbols.exe
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\bin\Debug\net6.0\RhombusSymbols.deps.json
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\bin\Debug\net6.0\RhombusSymbols.runtimeconfig.json
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\bin\Debug\net6.0\RhombusSymbols.dll
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\bin\Debug\net6.0\RhombusSymbols.pdb
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\RhombusSymbols.csproj.AssemblyReference.cache
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\RhombusSymbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\RhombusSymbols.AssemblyInfoInputs.cache
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\RhombusSymbols.AssemblyInfo.cs
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\RhombusSymbols.csproj.CoreCompileInputs.cache
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\RhombusSymbols.dll
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\refint\RhombusSymbols.dll
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\RhombusSymbols.pdb
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\RhombusSymbols.genruntimeconfig.cache
+D:\Natalia\Project1\Rhombus\RhombusSymbols\RhombusSymbols\obj\Debug\net6.0\ref\RhombusSymbols.dll
